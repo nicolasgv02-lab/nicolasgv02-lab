@@ -14,16 +14,16 @@ Olá! Sou Nicolas Gomes Vasconcelos, sou estudante de Ciência da Computação e
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="microsoftsqlserver" 
+    title="microsoftsqlserver"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="SQL" 
+    title="SQL"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
