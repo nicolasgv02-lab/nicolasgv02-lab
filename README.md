@@ -1,16 +1,38 @@
-## Hi there 👋
+# Nicolas
 
-<!--
-**nicolasgv02-lab/nicolasgv02-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim
+Olá! Sou Nicolas Gomes Vasconcelos, sou estudante de Ciência da Computação e atualmente focado em aprender e desenvolver projetos voltados a Engenharia de Dados visando vagas de estágio na área. 
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas que estou aprendendo
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+---
+
+### 📫 Contato
+- **LinkedIn:** [linkedin.com/in/nicolas-gomes-vasconcelos](https://www.linkedin.com/in/nicolas-gomes-vasconcelos-93336a232/)
